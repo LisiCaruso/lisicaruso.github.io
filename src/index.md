@@ -1,17 +1,17 @@
 ---
-title: Basicpage template
-author: Your Name
-shortbio: Short bio
+title: My site!
+author: Lisi Caruso
+shortbio: I just finished a masters in Mathematics ad University of Turin (UNITO) specializing in logic. I have been working on a Rocq formalization of Kripke semantics together with my supervisor Dominik Kirst. I am soon to start a PhD on the topic of intuitionistic modal logic a École Polytechnique under the supervision of Lutz Strassburger. 
 description-meta: Short bio for meta-data
 og-url: https://basicpage.github.io
 location: Location, office
-email: noreply@noemail.com
+email: lisi.caruso851@edu.unito.it
 clickable-email: false
 picture: img/profile.png
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: Pronouns
+pronouns: they/him - lui/lxi/lei
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
