@@ -4,7 +4,7 @@ author: Lisi Caruso
 shortbio: I am a PhD student in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst.
 description-meta: I am a PhD student in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst.
 og-url: https://basicpage.github.io
-location: Location, office
+location: INRIA De Saclay - Batiment Alan Turing, office ??
 email: lisi(dot)a(dot)caruso(at)inria(dot)fr
 clickable-email: false
 picture: img/foto.jpg
