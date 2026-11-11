@@ -7,11 +7,11 @@ og-url: https://basicpage.github.io
 location: Location, office
 email: lisi(dot)a(dot)caruso(at)inria(dot)fr
 clickable-email: false
-picture: img/profile.png
+picture: img/foto.jpg
 picture-round: false
 side-by-side: true
 disable-dark-mode: false
-pronouns: they/him - lui/lxi/lei
+pronouns: they/him - iel/il - lui/lxi
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
