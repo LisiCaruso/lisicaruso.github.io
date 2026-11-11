@@ -1,11 +1,16 @@
 ---
 title: My site!
 author: Lisi Caruso
-shortbio: I just finished a masters in Mathematics ad University of Turin (UNITO) specializing in logic. I have been working on a Rocq formalization of Kripke semantics together with my supervisor Dominik Kirst. I am soon to start a PhD on the topic of intuitionistic modal logic a École Polytechnique under the supervision of Lutz Strassburger. 
-description-meta: Short bio for meta-data
+shortbio: I am a PhD in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst. Previously I did a six months stage at PICUBE at IRIF. 
+I did my masters in Mathematics at the University of Turin (UNITO) specializing in logic. 
+
+My academic interests are proof theory, type theory, formalization and philosophy of the practice of mathematics. 
+
+I have been working on a Rocq formalization of Kripke semantics together with my supervisor Dominik Kirst. 
+description-meta: I am a PhD in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst.
 og-url: https://basicpage.github.io
 location: Location, office
-email: lisi.caruso851@edu.unito.it
+email: lisi(dot)a(dot)caruso(at)inria(dot)fr
 clickable-email: false
 picture: img/profile.png
 picture-round: false
