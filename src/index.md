@@ -29,6 +29,7 @@ My academic interests are proof theory, type theory, formalization, modal logic 
 
 I have been working on a Rocq formalization of Kripke semantics together with Dominik Kirst. 
 
+---
 
 # Teaching
 
@@ -52,8 +53,7 @@ I have previously been a substitute teacher in high school teaching mathematics.
 
 
 ---
-If you misgender me or any of my trans friends, I will bite you!
-
+Trans people are everywhere and yes, it is a threat.
  
   
 
