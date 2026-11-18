@@ -34,7 +34,7 @@ I have been working on a Rocq formalization of Kripke semantics together with Do
 
 I am teaching the TD for the proof theory course of LMFI for the academic year 2026/2027. 
 
-I have been a teaching assistant from 2020 to 2022, doing exercise sessions for the courses of Calculus 1 (Dep of Civil Engineering, 40h); General Mathematics (Dep of
+I have been a teaching assistant at the University of Pavia from 2020 to 2022, doing exercise sessions for the courses of Calculus 1 (Dep of Civil Engineering, 40h); General Mathematics (Dep of
 Biology and Natural Sciences, 40h); Basics of Coding and General Mathematics (Dep of Economics, 40h + 100h).
 
 I have previously been a substitute teacher in high school teaching mathematics. 
@@ -49,6 +49,10 @@ I have previously been a substitute teacher in high school teaching mathematics.
 (Sep 2018 - Sep 2023) Excellence Diploma, Science and Technology Area at Scuola Universitaria Superiore (IUSS) Pavia (Grade: 100/100 e lode).
 
 (Sep 2018 - Jul 2022) Bachelor in Mathematics at University of Pavia (Grade: 110/110 e lode).
+
+
+---
+If you misgender me or any of my trans friends, I will bite you!
 
  
   
