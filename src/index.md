@@ -1,6 +1,6 @@
 ---
 title: Lisi Caruso
-author: <p style="text-align: center">Lisi Caruso</p>
+author: Lisi Caruso
 shortbio: I am a PhD student in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst.
 description-meta: I am a PhD student in École Polytechnique at the LIX lab under the supervision of Lutz Strassburger and Dominik Kirst.
 og-url: https://basicpage.github.io
