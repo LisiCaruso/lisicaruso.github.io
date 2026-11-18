@@ -13,7 +13,7 @@ side-by-side: true
 disable-dark-mode: false
 pronouns: they/him - iel/il - lui/lxi
 
-github: https://github.com/LisiCaruso
+github: LisiCaruso
 
 footer: >-
   Based on the
